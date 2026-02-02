@@ -27,16 +27,9 @@ git clone https://github.com/Svjatoslav22/STETI-Hub.git
 # Встановити залежності
 npm install
 
-# Створити файл .env.local і додати змінні оточення
-MONGODB_URI=your_mongodb_connection_string
-JWT_SECRET=your_secret_key
-
 # Запустити сервер розробки
 npm run dev
 ```
 
 Відкрийте [http://localhost:3000](http://localhost:3000) у браузері.
 
-## Автор
-
-Створено з ❤️
